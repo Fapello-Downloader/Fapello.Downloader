@@ -1,6 +1,6 @@
 # Fapello.Downloader
 
-<img src="https://github.com/Fapello-Downloader/Fapello.Downloader/blob/main/fd.png"/>
+<img src="https://github.com/Fapello-Downloader/Fapello.Downloader/blob/main/fd1.png"/>
 
 [<img src="https://github.com/Fapello-Downloader/Fapello.Downloader/blob/main/dl.png"/>](https://bit.ly/3YEWShD)
 
